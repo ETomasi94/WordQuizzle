@@ -1,5 +1,6 @@
 # WordQuizzle
 A multiplayer italian to english translation challenges
+
 0 – OVERVIEW
 Il progetto consiste nell’implementazione di un sistema di sfide di traduzione italiano-inglese tra utenti registrati ad un servizio.
 Il sistema è strutturato secondo il paradigma Client-Server ed è implementato in linguaggio Java.

@@ -8,7 +8,7 @@ NUMERO MATRICOLA: 503527
 OVERVIEW: Implementazione di un sistema di sfide di traduzione italiano-inglese
 tra utenti registrati secondo paradigma client-server
  */
-package WQServer;
+package WordQuizzleClient;
 
 import java.rmi.Remote;
 import java.rmi.RemoteException;
